@@ -1,1 +1,1 @@
-# cool-code-quiz
+# fancy-code-quiz
